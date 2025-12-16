@@ -16,6 +16,13 @@
 
 </div>
 
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kandeelahmed600@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Kandeel-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-Ahmed%20Kandeel-1877F2?style=flat&logo=facebook&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201277861213)
+
 ---
 
 ## 🚀 About Me
