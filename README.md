@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Ahmed Kandil" width="15%"/> <br>
 
-<h1>Hi 👋, I'm Ahmed Kandil</h1>
-<h3>📊 Data Analyst | ⚙️ Odoo Consultant & Implementer</h3>
+<h1>Hi 👋, I'm Ahmed Kandeel</h1>
+<h3>📊 Data Analyst | ⚙️ Odoo Implementer</h3>
 
 </div>
 
@@ -34,7 +34,25 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+## 📐 Statistics & Analytical Skills
+
+- **Tools**
+  - Minitab (Statistical Analysis & Quality Control)
+
+- **Descriptive Statistics**
+  - Mean, Median, Mode
+  - Variance & Standard Deviation
+  - Data Distribution & Outliers
+
+- **Inferential Statistics**
+  - Hypothesis Testing (t-test, z-test, ANOVA)
+  - Confidence Intervals
+  - Regression & Correlation
+- Correlation & Regression Analysis
+
 
 ### ⚙️ Odoo & ERP
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
@@ -51,6 +69,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-2E86C1?style=flat)
 
 ---
 
@@ -60,17 +79,24 @@
 class AhmedKandil:
     def __init__(self):
         self.data_analysis = [
-            "Python", "Pandas", "SQL", "Power BI", "Excel"
+            "Python", "Pandas", "SQL",
+            "Power BI", "Tableau", "Excel"
+        ]
+        self.statistics = [
+            "Descriptive Statistics",
+            "Inferential Statistics",
+            "Hypothesis Testing",
+            "Regression Analysis",
+            "Minitab"
         ]
         self.erp = [
             "Odoo Functional",
-            "Odoo Accounting",
+            "Accounting",
             "Sales & Inventory",
             "Business Analysis"
         ]
-        self.databases = [
-            "PostgreSQL", "SQLite"
-        ]
         self.tools = [
-            "Git", "Linux", "VS Code"
+            "Git", "Linux", "VS Code", "Minitab"
         ]
+  ]
+
