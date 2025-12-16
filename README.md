@@ -92,6 +92,20 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-2E86C1?style=flat)
 
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/kandeel654">
+  <img src="https://github-readme-stats.vercel.app/api?username=kandeel654&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/kandeel654">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandeel654&layout=compact&theme=dark" alt="Top Languages" />
+</a>
+
+</div>
+
 ---
 
 ```python
