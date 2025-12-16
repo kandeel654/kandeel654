@@ -37,6 +37,27 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;
+  I’m currently studying **Big Data Analytics**
+  (Hadoop, Spark, Data Warehousing).  
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Big Data" width="15%" /><br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
+  &nbsp;&nbsp;&nbsp; I work with **Big Data & BI tools**
+  (SQL, Python, Power BI, Tableau, Minitab). <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
+  &nbsp;&nbsp; Ask me about **Data Analysis, Odoo ERP, KPIs & Dashboards**. <br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
+  &nbsp; Contact me on WhatsApp:
+  **[Chat Now](https://wa.me/201277861213)**<br>
+
+- &nbsp;&nbsp;
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
+  &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy turning **raw data into business insights**.<br>
+
+
 ## 📐 Statistics & Analytical Skills
 
 - **Tools**
